@@ -1,3 +1,4 @@
 language: node_js
 cache: yarn
+isntall: yarn
 script: yarn run build
